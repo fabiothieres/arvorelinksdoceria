@@ -24,7 +24,7 @@ main {
   height: auto;
   width: 25rem;
   padding: 0 4rem;
-  padding-bottom: 2rem;
+  padding: 0 4rem 2rem 4rem
   margin-top: 5rem;
   background-color: #361919;
   border-radius: 12px;
@@ -70,7 +70,8 @@ footer {
     max-width: 90%;
     text-align: center;
     margin-top: 3rem;
-    padding: 0 1rem;
+    padding: 0 1rem 2rem 1rem;
+    height: auto;
   }
 
   .containerPrincipal h1 {
