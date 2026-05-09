@@ -23,8 +23,7 @@ main {
   align-items: center;
   height: auto;
   width: 25rem;
-  padding: 0 4rem;
-  padding: 0 4rem 2rem 4rem
+  padding: 0 4rem 2rem 4rem;
   margin-top: 5rem;
   background-color: #361919;
   border-radius: 12px;
